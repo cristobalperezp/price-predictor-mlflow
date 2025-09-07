@@ -216,11 +216,3 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
 **Desarrollador**: Cristóbal Pérez P.  
 **Email**: cristobal.perez.p99@gmail.com  
 **LinkedIn**: [Cristóbal Pérez P.](https://www.linkedin.com/in/cristobal-perez-palma/)
-
----
-
-<div align="center">
-
-**🏠 Price Predictor** | *Predicción inteligente de precios inmobiliarios*
-
-</div>
